@@ -1,0 +1,18 @@
+img {
+    display: block;
+    width: 30%;
+    height: 250px;;
+    float: left;
+    margin: 1.66%;
+}
+
+h1 {
+    font-family: 'Advent Pro', sans-serif;
+    color: rgb(25, 3, 46);
+    margin-left: 1.66%;
+    font-size: 23px;
+    text-transform: uppercase;
+    width: 30%;
+    border-bottom: 2px solid #f1f1f1;
+    padding-bottom: 20px;
+}
